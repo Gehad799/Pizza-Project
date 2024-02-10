@@ -1,5 +1,5 @@
 # Small Pizza Project with React + Vite
--- React-Router, Redux Toolkit, styled using Tailwind 
+# React-Router, Redux Toolkit, styled using Tailwind 
 
 Here's the Project Pages:
 <img src="https://github.com/Gehad799/Pizza-Project/assets/125475192/8db435a7-4272-4628-aba8-2b7f262b1d75"   />
