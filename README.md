@@ -1,4 +1,5 @@
 # Small Pizza Project with React + Vite
+-- A simple website to order pizza
 # React-Router, Redux Toolkit, styled using Tailwind 
 
 Here's the Project Pages:
